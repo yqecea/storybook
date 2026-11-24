@@ -1,3 +1,8 @@
+## 11.0.0-rc.1
+
+- CLI: Stop argtypes-default-value from skipping a preview with mixed exports - [#37713](https://github.com/storybookjs/storybook/pull/37713), thanks @valentinpalkovic!
+- Svelte: Use the component's @import tag in story snippets - [#37539](https://github.com/storybookjs/storybook/pull/37539), thanks @jackeddisciple!
+
 ## 11.0.0-rc.0
 
 - Addon-MCP: Remove toolsets option and X-MCP-Toolsets header - [#37676](https://github.com/storybookjs/storybook/pull/37676), thanks @kasperpeulen!
